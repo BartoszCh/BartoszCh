@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Jestem uczniem kierunku Informatyki i Systemów Inteligentnych na Akademii Górniczo-Hutniczej w Krakowie. Witaj na moim profilu 😄
 <!--
 **BartoszCh/BartoszCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
