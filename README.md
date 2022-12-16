@@ -1,9 +1,4 @@
-### Jestem uczniem kierunku Informatyki i Systemów Inteligentnych na Akademii Górniczo-Hutniczej w Krakowie. Witaj na moim profilu 😄
-### Moja strona Github Pages: https://BartoszCh.github.io/
 
-### Fork wybranego artykułu: https://github.com/BartoszCh/Tremblay2018_Code
-
-<!--
 **BartoszCh/BartoszCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
